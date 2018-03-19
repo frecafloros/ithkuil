@@ -1,6 +1,6 @@
 $(function(){
   $('#inlat').keyup(function(){
-    var val = $(this).val();
-    $('#outith').text(val);
+    var t = $(this).val();
+    $('#outith').text(t);
   });
 });
