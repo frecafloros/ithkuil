@@ -1,5 +1,5 @@
 $(function(){
-  $('input[type="text"]').keyup(function(){
+  $('#inlat').keyup(function(){
     var val = $(this).val();
-    $('p').text(val);
+    $('#outith').text(val);
 });
