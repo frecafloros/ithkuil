@@ -1,6 +1,10 @@
+const parser = (t) => {
+}
+
 $(function(){
   $('#inlat').keyup(function(){
-    var t = $(this).val();
+    const t = $(this).val();
+    parser(t);
     $('#outith').text(t);
   });
 });
