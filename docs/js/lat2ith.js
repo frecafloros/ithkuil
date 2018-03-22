@@ -1,11 +1,37 @@
-const vowel = () =>{
+const judgelettertype = (c) =>{
+  if(c.match(/[aâeêëiîoôöuûü]/i)){
+    return "vowel";
+  }else if(c.match(/[bcdf]/i)){
+    return "consonant";
+  }else if(c.match(/[']/){
+    return "apostrophe";
+  }else{
+    return "unknown";
+  }
 }
 
 const parse = (t) =>{
+	/*形態素解析*/
+  let morpheme;
+  let typeflag;
+  let stack = "";
   for(let i=0; i<t.length; i++){
-    //t.charAt(i);
-    //が母音か子音かで
+    const c = t.charAt(i);
+    const lettertype = judgelettertype(c)
+    if(i == 0){
+      typeflag = lettertype;
+    }
+    if(typeflag === lettertype || lettertype === "apostrophe"){
+      stack += c;
+    }else if(typeflag !== lettertype){
+      morpheme.push(stack);
+      typeflag = lettertype;
+      stack = c;
+    }
   }
+  morpheme.push(stack);
+  
+	/*意味解析*/
 }
 
 const characterize = () => {
