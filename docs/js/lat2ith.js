@@ -1,7 +1,7 @@
 const judgelettertype = (c) =>{
   if(c.match(/[aâeêëiîoôöuûü]/i)){
     return "vowel";
-  }else if(c.match(/[bcdf]/i)){
+  }else if(c.match(/[bcčçdfghʰjklļmnňpqrřsštţvwxyzžż]/i)){
     return "consonant";
   }else if(c.match(/[']/){
     return "apostrophe";
@@ -17,7 +17,7 @@ const parse = (t) =>{
   let stack = "";
   for(let i=0; i<t.length; i++){
     const c = t.charAt(i);
-    const lettertype = judgelettertype(c)
+    const lettertype = judgelettertype(c);
     if(i == 0){
       typeflag = lettertype;
     }
