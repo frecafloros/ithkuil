@@ -12,7 +12,7 @@ const judgelettertype = (c) =>{
 
 const parse = (t) =>{
 	/*形態素解析*/
-  let morpheme;
+  let morpheme = [];
   let typeflag;
   let stack = "";
   for(let i=0; i<t.length; i++){
