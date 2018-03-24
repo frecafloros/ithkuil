@@ -3,7 +3,7 @@ const judgelettertype = (c) =>{
     return "vowel";
   }else if(c.match(/[bcčçdfghʰjklļmnňpqrřsštţvwxyzžż]/i)){
     return "consonant";
-  }else if(c.match(/[\']/){
+  }else if(c.match(/[\N{apostrophe}]/){
     return "apostrophe";
   }else{
     return "unknown";
