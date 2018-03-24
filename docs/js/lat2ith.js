@@ -10,8 +10,7 @@ const judgelettertype = (c) =>{
   }
 }
 
-const parse = (t) =>{
-	/*形態素解析*/
+const segmentation = (t) =>{
   let morpheme = [];
   let typeflag;
   let stack = "";
@@ -31,7 +30,7 @@ const parse = (t) =>{
   }
   morpheme.push(stack);
   
-	/*意味解析*/
+  return morpheme;
 }
 
 const characterize = () => {
@@ -40,7 +39,7 @@ const characterize = () => {
 $(function(){
   $('#inlat').keyup(function(){
     const t = $(this).val();
-    parse(t);
+    const morpheme = segment(t);
     characterize();
     $('#outith').text(t);
   });
