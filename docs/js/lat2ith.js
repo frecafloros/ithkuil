@@ -12,7 +12,7 @@ const characterize = () =>{
 $(function(){
   $('#inlat').keyup(function(){
     const t = $(this).val();
-    const morpheme = segment(t);
+    const morpheme = segmentation(t);
     console.log(morpheme);
     meaning();
     characterize();
