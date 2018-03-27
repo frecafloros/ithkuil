@@ -339,11 +339,55 @@ const semantics = (morpheme) =>{
     }
   })();
 
-  return [case_, configuration, affiliation, perspective, extension, essence, ps, function_, root, version];
+  return [[case_, [configuration, essence], [extension, affiliation], perspective, version],[root, ps, function_]];
 }
 
 
-const characterize = () =>{
+const characterize = (meaning) =>{
+  $('canvas').clearCanvas()
+  // 1
+  switch(meaning[0][0]){
+    case 'obl':
+      $('canvas').drawLine({
+        strokeStyle: '#000',
+        strokeWidth: 2,
+        x1: 5+15, y1: 10+0,
+        x2: 5+0, y2: 10+14,
+        x3: 5+15, y3: 10+28,
+      });
+      break;
+    case 'ind':
+      $('canvas').drawLine({
+        strokeStyle: '#000',
+        strokeWidth: 2,
+        x1: 5+15, y1: 10+0,
+        x2: 5+0, y2: 10+14,
+        x3: 5+15, y3: 10+14,
+        x4: 5+15, y4: 10+28,
+      });
+      break;
+  }
+  // 4
+  switch(meaning[1][0]){
+    case 't':
+      $('canvas').drawLine({
+        strokeStyle: '#000',
+        strokeWidth: 2,
+        x1: 35+20, y1: 10+0,
+        x2: 35+0, y2: 10+0,
+        x3: 35+0, y3: 10+28,
+      });
+      break;
+    case 'd':
+      $('canvas').drawLine({
+        strokeStyle: '#000',
+        strokeWidth: 2,
+        x1: 35+0, y1: 10+0,
+        x2: 35+20, y2: 10+0,
+        x3: 35+20, y3: 10+28,
+      });
+      break;
+  }
 }
 
 
@@ -353,7 +397,7 @@ $(function(){
     const morpheme = segmentation(t);
     const meaning = semantics(morpheme);
     console.log(meaning);
-    characterize();
+    characterize(meaning);
     $('#outith').text(meaning);
   });
 });
