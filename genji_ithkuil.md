@@ -1,15 +1,15 @@
-源氏物語  
+# 源氏物語  
   
-イスクイル（試訳）  
+**イスクイル（試訳）**  
 イスクイル（gloss）  
 中古日本語（漢字かな混じり）  
 中古日本語（ローマ字転写、ハ行転呼してるのかしてないのかよくわからないので音素/f/表記）  
 現代日本語（漢字かな混じり）  
   
-edru'al  
+**edru'al**  
 P1/S2/STA-'DR'-DFF-FML  
 いづれの御時にか、  
-idure-no ofontoki-ni-ka　　
+idure-no ofontoki-ni-ka  
 どの帝の御代であろうか、  
   
 DR/P1/S2/FML: preside over / mete out law / govern + abidance   
