@@ -8,7 +8,7 @@
   
 ## 第1帖 桐壺  
   
-**edru'al**  
+**edru'alVnVkt**  
 P1/S2/STA-'DR'-DFF-FML  
 いづれの御時にか、  
 idure-no ofontoki-ni-ka  
