@@ -8,15 +8,16 @@
   
 ## 第1帖 桐壺  
   
-**edru'alVnVkt**  
-P1/S2/STA-'DR'-DFF-FML  
+**edru'alinuqîkt**  
+P1/S2/STA-'DR'-DFF-FML-AGC1/1?-NTR1/9-DEF1/4  
 いづれの御時にか、  
 idure-no ofontoki-ni-ka  
 どの帝の御代であろうか、  
   
 DR/P1/S2/FML: preside over / mete out law / govern + abidance   
 DFF: diffusive[55], 期間に明確な境界線を持たない。「〜を取り巻く時間の間に」、「〜の時代に」なので正にこれでは。  
+DEF1/4: いづれの  
   
-女御、更衣あまた候ひける中に、
-いと止むことなき際にはあらぬが、
-すぐれて時めき給ふありけり。
+女御、更衣あまた候ひける中に、  
+いと止むことなき際にはあらぬが、  
+すぐれて時めき給ふありけり。  
