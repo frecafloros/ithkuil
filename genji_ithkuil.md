@@ -8,8 +8,8 @@
   
 ## 第1帖 桐壺  
   
-**edru'alueqiunîkt**  
-P1/S2/STA-'DR'-DFF-NRM/DEL/M/CSL/UNI-FML-NTR3/9-AGC2/1-DEF1/4  
+**edru'asueqìunîkt**  
+P1/S2/STA-'manage/guideline/compliance'-DFF-NRM/DEL/U/CSL/UNI-NTR3/9-AGC2/1-DEF1/4-FML  
 いづれの御時にか、  
 idure-no ofontoki-ni-ka  
 どの帝の御代であろうか、  
