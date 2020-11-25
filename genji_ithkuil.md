@@ -10,6 +10,12 @@
   
 **dru'edueqìunîkt**  
 P1/S2/STA-'manage/guideline/compliance'-DFF-NRM/PRX/U/CSL/UNI-NTR3/9-AGC2/1-DEF1/4-PRC-UNFRAMED/FML  
+いづれの御時にか、女御・更衣あまたさぶらひけるなかに、いとやむことなき際にはあらぬが、すぐれてときめきたまふありけり。  
+idure-no ofontoki-ni-ka nyougo kaui amata-saburafi-keru-naka-ni ito-yamgotonaki-kifa-ni-fa-aranu-ga sugure-te-tokimeki-tamafu-ari-keri  
+どの帝の御代であろうか、  
+  
+**dru'edueqìunîkt**  
+P1/S2/STA-'manage/guideline/compliance'-DFF-NRM/PRX/U/CSL/UNI-NTR3/9-AGC2/1-DEF1/4-PRC-UNFRAMED/FML  
 いづれの御時にか、  
 idure-no ofontoki-ni-ka  
 どの帝の御代であろうか、  
@@ -29,3 +35,7 @@ AGC2/1: n 何者かに変化を経験させる者
 女御、更衣あまた候ひける中に、  
 いと止むことなき際にはあらぬが、  
 すぐれて時めき給ふありけり。  
+  
+  
+はじめより我はと思ひ上がりたまへる御方がた、めざましきものにおとしめ嫉みたまふ。  
+同じほど、それより下臈の更衣たちは、ましてやすからず。  
