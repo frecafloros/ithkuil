@@ -14,6 +14,7 @@ P1/S2/STA-'manage/guideline/compliance'-DFF-NRM/PRX/U/CSL/UNI-NTR3/9-AGC2/1-DEF1
 idure-no ofontoki-ni-ka nyougo kaui amata-saburafi-keru-naka-ni ito-yamgotonaki-kifa-ni-fa-aranu-ga sugure-te-tokimeki-tamafu-ari-keri  
 どの帝の御代であろうか、  
   
+  
 **dru'edueqìunîkt**  
 P1/S2/STA-'manage/guideline/compliance'-DFF-NRM/PRX/U/CSL/UNI-NTR3/9-AGC2/1-DEF1/4-PRC-UNFRAMED/FML  
 いづれの御時にか、  
@@ -32,6 +33,7 @@ NTR3/9: q 光栄なる
 AGC2/1: n 何者かに変化を経験させる者  
 （slot IVはslot VIに吸収されたので省略されている）  
   
+**opal nyoûgo opal kaûi**
 女御、更衣あまた候ひける中に、  
 いと止むことなき際にはあらぬが、  
 すぐれて時めき給ふありけり。  
